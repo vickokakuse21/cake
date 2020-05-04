@@ -1,2 +1,2 @@
-# cake-by-the-Universe
- e-commerce apps using MERN
+# Cake by the Universe
+ Cake by the Universe is a e-commerce apps that using MERN
